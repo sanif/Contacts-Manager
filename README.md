@@ -1,2 +1,2 @@
-# Contacts-Manager
-A simple app to view/add/delete contacts
+# Free AI at api.airforce
+https://discord.gg/AJDsM7jtbq
